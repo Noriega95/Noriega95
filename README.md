@@ -6,21 +6,21 @@ I have completed the Henry Bootcamp 🚀, a +700 hs online program, consisting o
 
 This experience taught me the following technologies:
 
-### Front-End ###
+### Front-End 🖥️ ###
 * HTML
 * CSS
 * JavaScript
 * React & Redux
 * Material UI
 
-### Back-End ###
+### Back-End 💾 ###
 * Node.Js
 * Express
 * PostgreSQL
 * Sequelize
 
 
-### Projects ###
+### Projects 🔧 ###
 * Healthier 🍅 →  A healthy food e-commerce: Work In Progress!
 * Bienes Raíces 🏘️ → A real estate website made with HTML and CSS. See the repository [here!](https://github.com/Noriega95/BienesRaices)
 * Shopping List 📝 → A shopping list made with JavaScript, HTML and CSS.  See the repository [here!](https://github.com/Noriega95/ShoppingList)
