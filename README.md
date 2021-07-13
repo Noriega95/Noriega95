@@ -21,7 +21,7 @@ This experience taught me the following technologies:
 
 
 ### Projects ###
-* Healthier 🍅🌽🍉 →  A healthy food e-commerce: Work In Progress!
+* Healthier 🍅 →  A healthy food e-commerce: Work In Progress!
 * Bienes Raíces 🏘️ → A real estate website made with HTML and CSS. See the repository [here!](https://github.com/Noriega95/BienesRaices)
 * Shopping List 📝 → A shopping list made with JavaScript, HTML and CSS.  See the repository [here!](https://github.com/Noriega95/ShoppingList)
 
